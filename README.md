@@ -4,7 +4,7 @@
 
 ### AI/ML Enthusiast · Software Developer · Android Developer
 
-I build practical software, explore intelligent systems, and learn by shipping projects.
+I build practical software, explore intelligent systems, and learn by shipping projects.\n\n[![Open Live Developer Dashboard](https://img.shields.io/badge/OPEN-LIVE%20DEVELOPER%20DASHBOARD-8ba7ff?style=for-the-badge&logo=github)](https://ghulamghous2006.github.io/ghulamghous2006/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ghulamghous2006-181717?style=for-the-badge&logo=github)](https://github.com/ghulamghous2006)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ghulam246)
